@@ -1,15 +1,15 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: pusherChat_development
+  database: pusher_chat_development
   pool: 5
-  username: pusherChat
+  username: pusher_chat
   password: password1
 
 test:
   adapter: postgresql
   encoding: unicode
-  database: pusherChat_test
+  database: pusher_chat_test
   pool: 5
-  username: pusherChat
+  username: pusher_chat
   password: password1
