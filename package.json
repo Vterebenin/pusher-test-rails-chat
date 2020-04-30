@@ -7,7 +7,7 @@
     "@rails/ujs": "^6.0.0-alpha",
     "@rails/webpacker": "^4.0.7",
     "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper": "^1.0.1",
     "pusher": "^3.0.0",
     "pusher-js": "^5.0.2",
